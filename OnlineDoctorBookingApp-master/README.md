@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/Jagadeesh-Kmr/OnlineDoctorApp.git
+ github link
 Navigate into the project directory:
 
 bash
@@ -71,5 +71,5 @@ License
 This project is licensed under the MIT License.
 
 Contact
-Email: jagadeesh.1724@gmail.com
-GitHub: https://github.com/Jagadeesh-Kmr
+Email: karthickperiyasamy54@gmail.com
+ 
